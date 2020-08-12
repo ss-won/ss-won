@@ -1,5 +1,5 @@
 ### Hi there 🐥
-- 🌱 I’m currently learning Web, Javascript, Typescript.
+- 🌱 I’m currently learning Web, Javascript, and Typescript.
 - 📫 How to reach me: 
   - swj960515@gmail.com
   - ss_won_@naver.com
