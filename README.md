@@ -4,8 +4,8 @@
   - swj960515@gmail.com
   - ss_won_@naver.com
 - ✍🏻 This is my blog for recording:
-  - https://velog.io/@ss-won/
-  - https://blog.naver.com/j_wish_
+  - <https://velog.io/@ss-won/>
+  - <https://blog.naver.com/j_wish_>
 
 <!--
 **ss-won/ss-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
