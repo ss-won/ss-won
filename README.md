@@ -1,7 +1,6 @@
 <div align="center">
         
-## ss-won's GitHub 🤟🏻
-🐰 💙 🧡 
+## ss-won's GitHub 🐰 🤟🏻
 <a href="https://hits.seeyoufarm.com">
   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fss-won&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
 </a>
