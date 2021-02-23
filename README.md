@@ -5,7 +5,8 @@
   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fss-won&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
 </a><a href="https://solved.ac/swj0515">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=swj0515" />
-</a><br />
+</a>
+<br /><br />
 
 ```javascript      
 const Sowon_Jung = {  🌱 `Learning` : [ `Web`, `Javascript`, and `Typescript` ],
