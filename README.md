@@ -1,28 +1,35 @@
+![github-배너](https://github.com/ss-won/ss-won/assets/31684481/3c364870-8df1-4c9b-894a-7643743c0be8)
+```typescript
+class Developer {  
+  constructor(public skill: string[], public interest: string[], public experience: string[]) {
+       this.skill = skill;
+       this.interest = interest;
+       this.experience = experience
+  }
+}
+
+/** 
+ * Hello! My name is wish. 🧞‍♂️ 
+ * I'm frontend developer.
+**/
+const WISH = new Developer(
+  /** skill 🎒 */
+  ['React', 'Next.js', 'Vite', 'Turbo Monorepo', 'NestJS'],
+  /** interest 🧚🏻‍♀️ */
+  ['Web', 'Translate', 'Make a Module in Rollup or Vite', 'Microfrontend', 'BFF(Backend for Frontend)'],
+  /** experience 🏃🏻‍♀️ */
+  ['SmartMind full stack developer (since 2021.07~)'] 
+  );
+```
 <div align="center">
         
-## ss-won's GitHub 🐰 🤟🏻
-<a href="https://hits.seeyoufarm.com">
-  <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fss-won&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=false" />
-</a><a href="https://solved.ac/swj0515">
-  <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=swj0515" />
-</a>
-<br /><br />
+|Algorithm Skill|Blog|Contact|
+|----------------|-------|------|
+| [![backjoon](http://mazassumnida.wtf/api/mini/generate_badge?boj=swj0515)](https://solved.ac/swj0515) | ![blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ss-won) | ![gmail](http://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail&link=mailto:swj960515@gmail.com) <br /> ![Static Badge](https://img.shields.io/badge/_linkedin-white?style=flat-square&logo=linkedin&logoColor=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsowon-jung-573867193%2F)|
 
-```javascript      
-const Sowon_Jung = {  🌱 `Learning` : [ `Web`, `Javascript`, and `Typescript` ],
-                     💃🏻 `Interests` : [ `FE`, `BE`, and `image processing` ]  }
-```  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ss-won&&show_icons=true&&theme=dracula" />
-</a>
-<br/><br/>
-  
-<a href="https://velog.io/@ss-won">
-<img align="center" src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ss-won" />
-</a>
-<a href="mailto:swj960515@gmail.com">
-<img align="center" src="http://img.shields.io/badge/-Gmail-white?style=flat-square&logo=gmail&link=mailto:swj960515@gmail.com" />
 </div>
 <!--
 **ss-won/ss-won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 </div>
+
+
